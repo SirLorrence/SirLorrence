@@ -4,8 +4,10 @@ My name is Laurence Sadler*. I'm a programming currently working on school proje
 
 ## Programming Languages
 ---
-C# 
+C#
+
 C++
+
 HTML/CSS
 
 <!--
