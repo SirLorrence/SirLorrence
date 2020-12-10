@@ -1,6 +1,6 @@
 # Hey 👋
 
-My name is Laurence Sadler. I'm a programming currently working on school projects, but in my spear time I'm learning data structures and algorithms. When I’m not programming or learning something new you can find me playing video games, drinking coffee or eating ramen. Want to chat, shoot me a DM or an Email.* 
+My name is Laurence Sadler. I'm a programming currently working on school projects, but in my spare time I'm learning data structures and algorithms. When I’m not programming or learning something new you can find me playing video games, drinking coffee or eating ramen. Want to chat, shoot me a DM or an Email.* 
 
 ## Programming Languages
 
