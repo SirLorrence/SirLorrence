@@ -1,12 +1,15 @@
-# Hey 👋
+### Working on:
+- Mobile Game
+- Learning Data Structures & algorithms
+- Relearning Math (cause why not)
 
-My name is Laurence Sadler. I'm a programmer currently working on school projects, but in my spare time I'm learning data structures and algorithms. When I’m not programming or learning something new you can find me playing video games, drinking coffee or eating ramen. Want to chat, shoot me a DM or an Email.* 
+### My Motto
+K.I.S.S (Keep it simple stupid)
 
-## Programming Languages
+>So you want to feel you're like special, but you're not  
+> ~ Neil D. Tyson 
 
-C#
 
-C++
 
 
 <!--
