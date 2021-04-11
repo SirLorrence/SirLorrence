@@ -7,7 +7,7 @@
 ### My Motto: K.I.S.S 
 (Keep it simple stupid)
 
->So you want to feel you're like special, but you're not  
+>So you want to feel like you're special, but you're not!
 > ~ Neil D. Tyson 
 
 
