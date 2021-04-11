@@ -3,8 +3,8 @@
 - Learning Data Structures & algorithms
 - Relearning Math (cause why not)
 
-### My Motto
-K.I.S.S (Keep it simple stupid)
+### My Motto: K.I.S.S 
+(Keep it simple stupid)
 
 >So you want to feel you're like special, but you're not  
 > ~ Neil D. Tyson 
