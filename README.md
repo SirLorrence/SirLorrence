@@ -1,3 +1,7 @@
+
+### Little bit about me
+When I'm not programming or learning something new you can find me player video games, taking photographs, drinking coffee or eating ramen. Ramen is life bro
+
 ### Working on:
 - Mobile Game
 - Learning Unreal Engine
