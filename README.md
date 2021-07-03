@@ -1,5 +1,4 @@
-
-### Little bit about me
+# Laurence Sadler - @SirLorrence
 When I'm not programming or learning something new you can find me player video games, taking photographs, drinking coffee or eating ramen. Ramen is life bro
 
 ### Working on:
