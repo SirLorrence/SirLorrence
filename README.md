@@ -1,18 +1,16 @@
 # Laurence Sadler - @SirLorrence
 When I'm not programming or learning something new you can find me player video games, taking photographs, drinking coffee or eating ramen. Ramen is life bro
 
-### Working on:
-- Mobile Game
-- Learning Unreal Engine
-- Learning Data Structures & algorithms
-- Relearning Math (cause why not)
-
 ### My Motto: K.I.S.S 
 (Keep it simple stupid)
 
 >So you want to feel like you're special, but you're not!
 > ~ Neil D. Tyson 
-
+## Get Connected
+- Twitter: https://twitter.com/lvlzr0
+- Discord: lvlzro#9297
+- Steam: https://steamcommunity.com/id/lvlzro
+- GOG: www.gog.com/u/lvlzr0
 
 
 
