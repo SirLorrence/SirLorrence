@@ -3,11 +3,11 @@ Hello, I'm a Game Programmer from the bay area. Currently working with a small t
 
 When I'm not programming or learning something new you can find me player video games, taking photographs, drinking coffee or eating ramen. Ramen is life bro
 
-### My Motto: K.I.S.S 
-(Keep it simple stupid)
-
+#### My Motto: K.I.S.S (Keep it simple stupid)
+Favorite Quote: 
 >So you want to feel like you're special, but you're not!
 > ~ Neil D. Tyson 
+
 ## Get Connected
 - Twitter: https://twitter.com/lvlzr0
 - Discord: lvlzro#9297
