@@ -1,5 +1,5 @@
 # Laurence Sadler - @SirLorrence
-Hello, I'm a Game Programmer from the bay area. Currently working with a small team in Nova Scotia.  
+Hello, I'm a Game Programmer from the bay area. Currently working with a small team in Nova Scotia, but always looking for new opportunities.
 
 When I'm not programming or learning something new you can find me player video games, taking photographs, drinking coffee or eating ramen. Ramen is life bro
 
