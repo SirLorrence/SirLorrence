@@ -9,7 +9,6 @@ Favorite Quote:
 > ~ Neil D. Tyson 
 
 ## Get Connected
-- Twitter: https://twitter.com/lvlzr0
 - Discord: lvlzro#9297
 - Steam: https://steamcommunity.com/id/lvlzro
 - GOG: www.gog.com/u/lvlzr0
