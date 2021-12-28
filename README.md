@@ -11,7 +11,6 @@ Favorite Quote:
 ## Get Connected
 - Discord: lvlzro#9297
 - Steam: https://steamcommunity.com/id/lvlzro
-- GOG: www.gog.com/u/lvlzr0
 
 
 
