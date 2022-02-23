@@ -1,14 +1,11 @@
-# Laurence Sadler - @SirLorrence
-Hello, I'm a Game Programmer from the bay area. Currently working with a small team in Nova Scotia, but always looking for new opportunities.
+## Laurence Sadler - @SirLorrence
 
-When I'm not programming or learning something new you can find me player video games, taking photographs, drinking coffee or eating ramen. Ramen is life bro
+Yup...I program stuff. Mostly games
 
-#### My Motto: K.I.S.S (Keep it simple stupid)
-Favorite Quote: 
 >So you want to feel like you're special, but you're not!
 > ~ Neil D. Tyson 
 
-## Get Connected
+### Get Connected
 - Discord: lvlzro#9297
 - Steam: https://steamcommunity.com/id/lvlzro
 
