@@ -1,6 +1,8 @@
 ## Laurence Sadler - @SirLorrence
 
-Yup...I program stuff. Mostly games
+Yup...I program stuff.
+
+Currently: Learning to understand cpp
 
 >So you want to feel like you're special, but you're not!
 > ~ Neil D. Tyson 
