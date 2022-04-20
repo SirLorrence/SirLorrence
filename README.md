@@ -15,11 +15,12 @@ Yup...I program stuff.
 Resource:
 https://shields.io/ 
 https://dev.to/envoy_/150-badges-for-github-pnk
+https://zzetao.github.io/awesome-github-profile/
 -->
-### Get Connected
-- Discord: lvlzro#9297
-- Steam: https://steamcommunity.com/id/lvlzro
-
+#### Get Connected
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurencesadler/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/lvlzro#9297)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/lvlzro)
 
 
 <!--
