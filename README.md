@@ -3,12 +3,20 @@
 Yup...I program stuff.
 
 
+
 ![Label](https://img.shields.io/badge/Programming%20Languages:-black?style=flat-square)
 ![CPP](https://img.shields.io/badge/-C%2B%2B-black?style=flat-square&logo=c%2B%2B)
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
 &nbsp;&nbsp;&nbsp; <!-- for spacing -->
 ![Label](https://img.shields.io/badge/Tools:-black?style=flat-square)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
+![Git](https://img.shields.io/badge/git-black?style=flat-square&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-black.svg?style=flat-square&logo=jira&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-black?style=flat-square&logo=microsoft-office&logoColor=white)
+![Google](https://img.shields.io/badge/google-black?style=flat-square&logo=google&logoColor=white)
+
+
+
 ---
 
 <!--
