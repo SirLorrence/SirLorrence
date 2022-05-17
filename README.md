@@ -7,6 +7,7 @@ Yup...I program stuff.
 ![Label](https://img.shields.io/badge/Programming%20Languages:-black?style=flat-square)
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
 ![CPP](https://img.shields.io/badge/-C%2B%2B-black?style=flat-square&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-python-black?style=flat-square&logo=python&logoColor=white)
 &nbsp;&nbsp;&nbsp; <!-- for spacing -->
 ![Label](https://img.shields.io/badge/Tools:-black?style=flat-square)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
