@@ -10,7 +10,7 @@ Yup...I program stuff.
 ![Python](https://img.shields.io/badge/-python-black?style=flat-square&logo=python&logoColor=white)
 &nbsp;&nbsp;&nbsp; <!-- for spacing -->
 ![Label](https://img.shields.io/badge/Tools:-black?style=flat-square)
-![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/git-black?style=flat-square&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-black.svg?style=flat-square&logo=jira&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-black?style=flat-square&logo=microsoft-office&logoColor=white)
