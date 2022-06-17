@@ -1,6 +1,19 @@
 ### Hey, I'm Laurence!
+Yea...I program stuff.
 
-Yup...I program stuff.
+Aspiring Gameplay Programmer
+
+Linux Enthusiast
+
+Hella interested in video game technology/software and hardware (mainly thanks to [Digital Foundry](https://www.youtube.com/user/DigitalFoundry))
+
+Love learning about new(and old) programming techniques and patterns, just love learning in general!
+
+Currently learning and practicing my c++ skills
+
+
+
+
 
 
 
