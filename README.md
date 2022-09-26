@@ -9,7 +9,7 @@ Hella interested in video game technology/software and hardware (mainly thanks t
 
 Love learning about new(and old) programming techniques and patterns, just love learning in general!
 
-Currently learning and practicing my c++ skills
+Currently learning and practicing my c++ skills & learning to program within Unreal Engine
 
 
 
