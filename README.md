@@ -1,17 +1,34 @@
 ### Hey, I'm Laurence!
-Yea...I program stuff.
 
-Aspiring Gameplay Programmer
+I'm an eager programmer that likes learning about new(and old) programming techniques and patterns, just love learning in general! I'm a Linux Enthusiast, using it as my main OS for programming and gaming. Hella interested in video game technology/software and hardware (main thanks to [Digital Foundry](https://www.youtube.com/user/DigitalFoundry))
 
-Linux Enthusiast
+### Professional Experience 
 
-Hella interested in video game technology/software and hardware (mainly thanks to [Digital Foundry](https://www.youtube.com/user/DigitalFoundry))
+**Auto GFX -- Intel** 
 
-Love learning about new(and old) programming techniques and patterns, just love learning in general!
+Created a tool to install early version drivers for what's now called the Alchemist "Arc" GPUs. Using a mix of python and bat file scripting.
 
-Currently learning and practicing my c++ skills & learning to program within Unreal Engine
+**OCR Data Extractor -- Intel** 
 
+Created a tool that pulls FPS benchmark results data and other performance data from screenshots using Google's tesseract OCR and OpenCV, along with python.
 
+**[Intergalactic Rescue](https://github.com/SirLorrence/Intergalactic-Rescue) -- Vigilance Digital Media** 
+
+Release a casual mobile game on the Google Play store as a Game Programmer with a small team remotely from Nova Scotia. Assisting with project leads and assisted managing interns.
+
+### Projects
+
+**[Catch-Em](https://github.com/SirLorrence/Catch-Em)**
+
+A recreation of the mini-game, "Hand Over Fish" from the game Jak and Daxter made in the Unity engine. I learned a little about shader graphs and a bit about graphics programming (not my jam).
+
+**[Avoid it!](https://github.com/SirLorrence/Avoid_It)**
+
+Developed a small game with C++ using the Raylibs graphics library. 
+
+**[REHABILITATION](https://github.com/SirLorrence/REHABILITATION)** 
+
+Created a six-axis space shooter. One of my first projects working with a team - at the Global Game Jam in Nova Scotia.
 
 
 
