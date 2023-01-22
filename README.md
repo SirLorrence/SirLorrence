@@ -6,16 +6,21 @@ I'm an eager programmer that likes learning about new(and old) programming techn
 
 ### Skills
 
+
 <p align="center">
   
-**ProgrammingLanguages** | **Engines, Frameworks, and Tools** | **Knowledge of**
-:-------------------------:|:-------------------------:|:-------------------------:
-C#  | Unity | Batch
-C++ | Sikulix | Javascript
-Python | Jira & Trello | HTML & CSS
-&nbsp;| Git |&nbsp;
-&nbsp;|Office|&nbsp;
-&nbsp;|PIX, Intel GPA|&nbsp;
+**ProgrammingLanguages** 
+  
+C# | C++ | Python
+  
+**Engines, Frameworks, and Tools** 
+  
+Unity | Sikulix | Jira & Trello | Office | PIX | Intel GPA
+
+**Knowledge of:**
+  
+Batch | Javascript | HTML & CSS
+
 
 <!--
 ### Professional Experience 
