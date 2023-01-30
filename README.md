@@ -15,7 +15,7 @@ C# | C++ | Python
   
 **Engines, Frameworks, and Tools** 
   
-Unity | Sikulix | Jira & Trello | Office | PIX | Intel GPA
+Unity | Unreal | Sikulix | Jira & Trello | Office | PIX | Intel GPA
 
 **Knowledge of:**
   
