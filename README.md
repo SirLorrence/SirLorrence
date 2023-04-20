@@ -2,7 +2,6 @@
 
 I'm an eager programmer that likes learning about new(and old) programming techniques and patterns, just love learning in general! I'm a Linux Enthusiast, using it as my main OS for programming and gaming. Hella interested in video game technology/software and hardware (main thanks to [Digital Foundry](https://www.youtube.com/user/DigitalFoundry))
 
-### Currently Working on: Unreal Traversal Project
 
 ### Skills
 
