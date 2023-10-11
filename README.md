@@ -1,6 +1,6 @@
 ## Hey, I'm Laurence!
 
-I'm an eager programmer that likes learning about new(and old) programming techniques and patterns, just love learning in general! I'm a Linux Enthusiast, using it as my main OS for programming and gaming. Hella interested in video game technology/software and hardware (main thanks to [Digital Foundry](https://www.youtube.com/user/DigitalFoundry))
+I'm an eager programmer who likes learning about new(and old) programming techniques and patterns; I love learning in general! I'm a Linux Enthusiast, using it as my main OS for programming and gaming. Hella interested in video game technology/software and hardware (mainly thanks to [Digital Foundry](https://www.youtube.com/user/DigitalFoundry))
 
 
 ### Skills
