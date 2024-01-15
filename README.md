@@ -3,8 +3,6 @@
 I'm an eager programmer who likes learning about new(and old) programming techniques and patterns; I love learning in general! I'm a Linux Enthusiast, using it as my main OS for programming and gaming. Hella interested in video game technology/software and hardware (mainly thanks to [Digital Foundry](https://www.youtube.com/user/DigitalFoundry))
 
 
-### [Update: Migrating to / Working in GitLab - Still @SirLorrence](https://gitlab.com/SirLorrence)
-
 ### Skills
 
 
