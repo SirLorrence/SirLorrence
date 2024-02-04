@@ -15,11 +15,11 @@ C# | C++ | Python
   
 **Engines, Frameworks, and Tools** 
   
-Unity | Unreal | Sikulix | Jira & Trello | Office | PIX | Intel GPA
+Unity | Unreal | Jira & Trello | Office | Intel GPA
 
 **Knowledge of:**
   
-Batch | Javascript | HTML & CSS
+Batch | Javascript | HTML & CSS | Sikulix | PIX | Raylib
 
 
 <!--
