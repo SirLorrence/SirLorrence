@@ -1,7 +1,7 @@
 ## Hey, I'm Laurence!
 ### One project at a time... With some side quests 
 
-I'm an eager programmer who likes learning about new(and old) programming techniques and patterns; I love learning in general! I'm a Linux Enthusiast, using it as my main OS for programming and gaming. Hella interested in video game technology/software and hardware (mainly thanks to [Digital Foundry](https://www.youtube.com/user/DigitalFoundry))
+I program stuff
 
 
 ### Skills
@@ -24,6 +24,8 @@ Batch | Javascript | HTML & CSS | Sikulix | PIX | Raylib
 
 <!--
 ### Professional Experience 
+
+ I love learning in general! I'm a Linux Enthusiast, using it as my main OS for programming and gaming. Hella interested in video game technology/software and hardware (mainly thanks to [Digital Foundry](https://www.youtube.com/user/DigitalFoundry))
 
 **Auto GFX -- Intel** 
 
