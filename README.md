@@ -1,8 +1,7 @@
 ## Hey, I'm Laurence!
 ### One project at a time... With some side quests 
 
-I program stuff
-
+Working on enhancing my skills in C++ and Unreal.
 
 ### Skills
 
