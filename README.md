@@ -8,7 +8,7 @@ Working on enhancing my skills in C++ and Unreal.
 
 <p align="center">
   
-**ProgrammingLanguages** 
+**Programming Languages** 
   
 C# | C++ | Python
   
@@ -18,7 +18,7 @@ Unity | Unreal | Jira & Trello | Office | Intel GPA
 
 **Knowledge of:**
   
-Batch | Javascript | HTML & CSS | Sikulix | PIX | Raylib
+Batch | Javascript | HTML & CSS | Sikulix | PIX | Raylib | CMake | SDL3
 
 
 <!--
