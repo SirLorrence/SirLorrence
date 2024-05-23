@@ -1,5 +1,5 @@
 ## Hey, I'm Laurence!
-### One project at a time... With some side quests 
+### I like getting good/knowledgeable at something so I can complain about it in detail. 
 
 Working on enhancing my skills in C++ and Unreal.
 
