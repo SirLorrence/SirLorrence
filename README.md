@@ -6,19 +6,16 @@
  
  **[Portfolio with my showcase projects + there write ups, and some blogs](https://laurencesadler.com/)**
 
-<details open>
-<summary>More</summary>
+<details>
+<summary>More about my coding knowledge</summary>
 
 Programming Languages: **C++, C#, Python**
   
-Engines, Frameworks, and Tools:**Unity, Unreal, Jira & Trello, Office (I excel at it), Intel GPA**
+Engines, Frameworks, and Tools: **Unity, Unreal, Jira & Trello, Office (I excel at it), Intel GPA**
 
 Knowledge of: **Batch, Javascript, HTML & CSS, Sikulix, PIX, Raylib, CMake, SDL3, Hugo**
 
 </details>
-
-
-
 <!--
 **SirLorrence/SirLorrence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
