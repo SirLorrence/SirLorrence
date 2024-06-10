@@ -4,6 +4,8 @@
 
  **Currently:** Working on enhancing my skills in C++ and Unreal.
  
+ **Enemy:** The people who write the Unreal C++ documentation
+ 
  **[Portfolio with my showcase projects + there write ups, and some blogs](https://laurencesadler.com/)**
 
 <details>
