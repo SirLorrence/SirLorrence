@@ -2,9 +2,12 @@
  
  "I like getting good/knowledgeable at something so I can complain about it in detail." - Me
 
- **Currently:** Working on enhancing my skills in C++ and Unreal.
+ **Currently:** 
+ - Learning about AI (for work mainly and personal use).
+ - Maths
+ - Getting back into Unity 
  
- **Enemy:** The people who write the Unreal C++ documentation
+<!-- **Enemy:** The people who write the Unreal C++ documentation j-->
  
  **[Portfolio with my showcase projects + there write ups, and some blogs](https://laurencesadler.com/)**
 
