@@ -1,12 +1,12 @@
 ## Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
  
  "I like getting good/knowledgeable at something so I can complain about it in detail." - Me
-
+<!--
  **Currently:** 
  - Learning about AI (for work mainly and personal use).
+ - Stt
  - Maths
- - Getting back into Unity 
- 
+ -->
 <!-- **Enemy:** The people who write the Unreal C++ documentation j-->
  
  **[Portfolio with my showcase projects + there write ups, and some blogs](https://laurencesadler.com/)**
