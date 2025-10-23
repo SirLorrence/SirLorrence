@@ -1,13 +1,8 @@
 ## Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
+
+ Currently: Recompiling
  
  "I like getting good/knowledgeable at something so I can complain about it in detail." - Me
-<!--
- **Currently:** 
- - Learning about AI (for work mainly and personal use).
- - Stt
- - Maths
- -->
-<!-- **Enemy:** The people who write the Unreal C++ documentation j-->
  
  **[Portfolio with my showcase projects + there write ups, and some blogs](https://laurencesadler.com/)**
 
@@ -21,17 +16,3 @@ Engines, Frameworks, and Tools: **Unity, Unreal, Jira & Trello, Office (I excel 
 Knowledge of: **Batch, Javascript, HTML & CSS, Sikulix, PIX, Raylib, CMake, SDL3, Hugo**
 
 </details>
-<!--
-**SirLorrence/SirLorrence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
